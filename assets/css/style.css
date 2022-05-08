@@ -158,6 +158,12 @@ ul {
   color: #fff;
 }
 
+.link_wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 .btn-orange {
   background: #ff7f5c;
   border-radius: 5px;
