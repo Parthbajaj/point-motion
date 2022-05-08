@@ -346,7 +346,7 @@ section.feature_wrapper {
 .preference_wrapper {
   background: #3734a9;
   position: relative;
-  top: 45vh;
+  top: 60vh;
 }
 
 .preference_spacing{
@@ -444,7 +444,7 @@ section.icon_list {
 
 section.blocks {
   position: relative;
-  top: 80vh;
+  top: 70vh;
 }
 
 .block_heading {
